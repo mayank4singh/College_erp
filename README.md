@@ -4,6 +4,7 @@ A comprehensive Enterprise Resource Planning system for college management built
 
 ## Features
 
+
 - 📚 **Student Management** - Complete student records and profiles
 - 🎓 **Admissions** - Application tracking and approval workflow
 - 💰 **Fee Management** - Payment tracking and receipt generation
