@@ -30,6 +30,7 @@ A comprehensive Enterprise Resource Planning system for college management built
 npm install
 ```
 
+ 
 ### 2. Configure Supabase
 
 Follow the detailed setup guide in [SUPABASE_SETUP.md](SUPABASE_SETUP.md)
